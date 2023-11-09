@@ -1,0 +1,8 @@
+
+
+void main(){  /* bbbbb
+
+b */
+ int beta;
+  beta++ + 12beta;
+   A == b + 13.78.34 + 5
